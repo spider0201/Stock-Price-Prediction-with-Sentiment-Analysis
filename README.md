@@ -15,7 +15,7 @@ Dự án này dự báo giá cổ phiếu sử dụng các mô hình LSTM, Times
 1. **Clone hoặc tải mã nguồn về máy:**
 
    ```
-   git clone <link-repo-cua-ban>
+   git clone https://github.com/spider0201/Stock-Price-Prediction-with-Sentiment-Analysis.git
    cd <thư-mục-dự-án>
    ```
 
