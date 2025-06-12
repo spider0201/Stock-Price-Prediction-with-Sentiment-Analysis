@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+torch
+requests
+beautifulsoup4
+selenium
+concurrent.futures
+statsmodels
+pmdarima
